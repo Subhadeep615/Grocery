@@ -8,7 +8,8 @@ import jwt from 'jsonwebtoken'
 // Prevent javascript to access cookie
 const option = {
     httpOnly: true,
-    secure: true
+    secure: true,
+    sameSite: "none", 
 }
 
 
