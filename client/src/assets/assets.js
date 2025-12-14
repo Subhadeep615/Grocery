@@ -1,6 +1,6 @@
 import { CalendarCheck, ListCheck, SquarePlus } from "lucide-react";
 import brand_logo from "./images/brand_logo.png";
-import add_address_image from "./images/add_address_image.jpg";
+import add_address_image from "./images/Add_Address_image.jpg";
 import contact_img from './images/contact_img.jpg'
 import about_img from './images/about_img.jpg'
 import hero_img from './images/hero_img.jpg'
