@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary:oklch(79.2% 0.209 151.711);
+  --color-primary-dull:oklch(44.8% 0.119 151.328);
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
